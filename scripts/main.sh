@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python python-project-template/main.py
+python src/main.py
